@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* a_tag */
+a {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+color: #1076be;
+}
+a:active {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+}
+
+a:hover {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+}
+
+a:link {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+}
+
+a:visited {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+}
+
+/*スマホ自動文字調整機能オフ*/
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+
+
+/*フォント設定*/
+html {
+font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+font-size: 62.5%;
+color: #333; 
+}
+
+html>/**/body { 
+font-size: 13px;
+line-height: 150%;
+letter-spacing:0.1em;
+font-weight: normal;
+font-style: normal;
+}
+
+/*共通のstyle*/
